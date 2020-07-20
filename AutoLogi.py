@@ -15,7 +15,6 @@ if(n==1):
     driver.get(url)
     driver.find_element_by_id("email").send_keys(username);
     driver.find_element_by_id("pass").send_keys(password,Keys.RETURN); 
-   # driver.find_element_by_id("u_0_b").click();
 elif(n==2):
     print("AutoLogi is loading ...Please wait...")
     username='your_twitter_username'
@@ -29,4 +28,4 @@ else:
     print("Need Help?")
     print("Here are some solutions\n")
     print("->Make sure you have downloaded the appropriate driver of your browser and put it in the given driver path\n")
-    print("->Websites may have changed the ids of the login box, then change it in the program and please report us")
+    print("->Websites may have changed the ids of the login box, then change it in the program and please report us\n")
