@@ -1,8 +1,8 @@
 # Login-Automation
 
-# Automatic login for FB and Twitter
+# Automatic login for FB, Twitter and Instagram
 
-AutoLogi is an Automatic login tool for logging into Facebook and Twitter accounts.
+AutoLogi is an Automatic login tool for logging into Facebook, Twitter and Instagram accounts.
 
 ->Before using this tool make sure you have downloaded the appropriate web driver of the browser.
 
